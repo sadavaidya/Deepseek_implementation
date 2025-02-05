@@ -45,7 +45,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-st.title("🧠 DeepSeek Code Companion")
+st.title("🧠 DeepSeek Companion")
 st.caption("🚀 Your AI Pair Programmer with Debugging Superpowers")
 
 # Sidebar configuration
